@@ -1,0 +1,23 @@
+{
+  "name": "google-shopping"
+, "description": "Node module for Google Shopping."
+, "author": {
+    "name": "Chao Huang"
+  , "email": "chao@realguess.net"
+  }
+, "version": "0.0.0"
+, "repository": {
+    "type": "git"
+  , "url": "git://github.com/realguess/google-shopping.git"
+  }
+, "dependencies": {
+
+  }
+, "devDependencies": {
+    "vows": "0.6.3"
+  }
+, "optionalDependencies": {}
+, "engines": {
+    "node": ">=0.6.17"
+  }
+}
