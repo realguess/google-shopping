@@ -16,6 +16,6 @@ gs.query(q, { key: keys[i=(i+=1)%len] }, function (err, data) {
 });
 
 // Random
-gs.query(q, { key: keys[parseInt(Math.random()*len)] }, function (err, data) {
+gs.query(q, { key: keys[parseInt(Math.random()*len, 10)] }, function (err, data) {
   // Do something
 });
