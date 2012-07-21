@@ -10,3 +10,7 @@ v0.0.3, 2012-07-21
 ------------------
 - Allowed more parameters to send to Google Shopping.
 - Added test cases for thumbnails.
+
+v0.0.4, 2012-07-21
+------------------
+- Bug fix.
