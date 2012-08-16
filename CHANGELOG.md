@@ -14,3 +14,8 @@ v0.0.3, 2012-07-21
 v0.0.4, 2012-07-21
 ------------------
 - Bug fix.
+
+v0.0.5, 2012-08-15
+------------------
+- Updated filter function with fields.
+- Added a tranform function for response data.
