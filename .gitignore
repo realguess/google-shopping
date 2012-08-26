@@ -1,11 +1,45 @@
+#
+# @file
+# Google Shopping gitignore file.
+#
+# @version 0.2.1
+#
+
+# VI temporary files
 .*.swp
+.*.swo
+
+# Gedit temporary files
 *~
+
+# Temporary directories
+tmp
+
+# Mac Desktop Services Store
 .DS_Store
-.monitor
+
+# Windows Thumbnails
+Thumbs.db
+
+# Subversion
 .svn
-npm-debug.log
+
+# Eclipse
+.classpath
 .project
-.settings
-out
+
+#
+# Node.js
+#
+
+# Node Package Manager debugging log
+npm-debug.log
+
+# Node modules
 node_modules
-TODO.md
+
+#
+# Others
+#
+.monitor
+.settings
